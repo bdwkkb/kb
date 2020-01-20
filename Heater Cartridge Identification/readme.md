@@ -13,14 +13,14 @@ Using a multimeter, select ohms (resistance) and use your test leads to the two 
 ## How to estimate appropriate readings
 We can determine the appropriate values by manipulating two formulas.
 
-Ohm's Law (Electric current is proportional to voltage and inversely proportional to resistance.)
+# Ohm's Law (Electric current is proportional to voltage and inversely proportional to resistance.)
 V = I x R
 
 V = Voltage (Volts)
 I = Current (Amps)
 R = Resistance (Ohms)
 
-Power Equation (Electric current is proportional to power and inversely proportional to voltage.)
+# Power Equation (Electric current is proportional to power and inversely proportional to voltage.)
 P = I × V
 
 P = Power (Watts)
