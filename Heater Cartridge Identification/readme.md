@@ -7,8 +7,8 @@ Using a multimeter, select ohms (resistance) and use your test leads to the two 
 
 ### Common Readings:
 
-1) 12V 40W Cartridges typically read around 3.6k ohms
-2) 24V 40W Cartridges typically read around 13.6k to 14.4k ohms
+1) 12V 40W Cartridges typically read around 3.6 ohms
+2) 24V 40W Cartridges typically read around 13.5 to 14.4 ohms
 
 ## How to estimate appropriate readings
 We can determine the appropriate values by manipulating two formulas.
