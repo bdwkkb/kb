@@ -70,6 +70,8 @@ A very basic program for Laser and CNC.  Works only with .jpg image files.  Afte
 
 You can connect your CP-01 by selecting the COM port from the drop down list and hitting "connect."  There are arrow controls to position the tool head (X and Y only, Z on the machine only.)
 
+---
+
 ## Formatting CAM raw (basic) gcode for your Marlin
 
 Creality's CP-01 is not the only machine to use Marlin for a CNC application.  One rather popular known instance is V1 Engineering's MPCNC (Mostly Printed CNC.)
