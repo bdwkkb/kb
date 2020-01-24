@@ -7,7 +7,9 @@ The Creality CP-01 is a unique all-in-one 3D Printer, CNC Engraver and Laser Eng
 
 For preparing files for 3D Printing on your CP-01, please use a profile for the Ender 3.  The CP-01 shares the same basic build volume and other relevant details.  So the Ender 3 profile in Cura (tested in 4.4.0) works quite well.
 
-### Auto Bed Leveling.  Unfortunately, due to the design of the CP-01 with interchangeable heads, at this time we are unaware of any way to mount an auto bed leveling probe to this machine.  This may change as the popularity of the machine grows and some enterprising individual discovers a solution.  There is however an assitive leveling feature in the firmware for the machine.
+### Auto Bed Leveling.
+
+Unfortunately, due to the design of the CP-01 with interchangeable heads, at this time we are unaware of any way to mount an auto bed leveling probe to this machine.  This may change as the popularity of the machine grows and some enterprising individual discovers a solution.  There is however an assitive leveling feature in the firmware for the machine.
 
 ---
 
