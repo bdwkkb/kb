@@ -79,7 +79,6 @@ Creality's CP-01 is not the only machine to use Marlin for a CNC application.  O
 
 On the milling basics page https://www.v1engineering.com/milling-basics/ is a link to a Fusion 360 post-processor for Marlin.  (We've duplicated that info below for your convenience.)
 
-
 ---
 
 ## Post Processors
@@ -89,13 +88,11 @@ When making Gcode from your CAM program it spits out raw coordinates, speeds, an
 
 For example, Marlin treats G0 (rapid move) and G1 (work move) the same. Other machines set the G0 speed in the firmware, Marlin does not. To over come this we use a line in the post processor to set the actual speed in each line so it doesn’t matter. There are all sorts of things like this. All machines require a post processor.
 
-
 ### Post Processors working with Marlin
 
 1) Estlcam – Built in, Christian was happy to work with us to get this correct. Here are the recommended settings: https://www.v1engineering.com/estlcam-basics/
 2) Fusion360 – Guffy has really made what seems to be a feature complete PP, Guffy’s GitHub. Fusion CAM intro. ((10/23/19) Do not use arcs) https://github.com/guffy1234/mpcnc_posts_processor
 3) Vectric, Aspire, Vcarve – What we have so far, Here: https://www.v1engineering.com/forum/topic/z-slip-over-large-topographical-map/#post-51193
-
 
 ## PP's found on Google Search
 
