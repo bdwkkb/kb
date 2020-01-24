@@ -9,6 +9,7 @@ For preparing files for 3D Printing on your CP-01, please use a profile for the 
 
 ### Auto Bed Leveling.  Unfortunately, due to the design of the CP-01 with interchangeable heads, at this time we are unaware of any way to mount an auto bed leveling probe to this machine.  This may change as the popularity of the machine grows and some enterprising individual discovers a solution.  There is however an assitive leveling feature in the firmware for the machine.
 
+---
 
 ## Laser Engraving
 
@@ -26,10 +27,11 @@ For basic laser etching, you can use the included Creality Workshop software.  (
 
 Position the laser using the positioning arrows on the machine or in the workshop software.  When you are happy with the positioning, start the laser by pressing the function select on the machine.  The starting position should be the lower left corner of your job.  Please ensure that your work fits within the parameters of the workspace.  There are rulers on the workspace in the workshop software to assist.
 
-### Alternative Software
+### Alternative Software (Laser)
 
 We are searching for alternative resources for laser functions on this machine.  If you have any known (working) solutions, please let us know so we can share them!
 
+---
 
 ## CNC Functions
 
@@ -43,8 +45,22 @@ We are searching for alternative resources for laser functions on this machine. 
 
 For the CNC the positioning is handled much the same as the Laser.  Use the arrows to position the tool at the bottom left corner.  You will also be setting the Z height for the tool head.  Hitting the set button will create the work home position.  Engage the function when you are ready to start the spindle.
 
+### Alternative Software (CNC)
 
+Carbide Create: https://carbide3d.com/carbidecreate/
+Pic to SVG converter: https://picsvg.com/
+Kiri:Moto: https://grid.space/kiri
+Lithophane creator: http://3dp.rocks/lithophane/
+Easel Inventables: http://easel.inventables.com/
+Tinkercad: http://www.tinkercad.com/
 
+Videos for Tools:
+TeachingTech video on beta testing the CP-01: https://youtu.be/s__H_bcFvds
+TeachingTech video on sainsmart genmitsu 3018 pro (for the CNC software resources): https://youtu.be/Y5nyjvytlBk
+TeachingTech video on lithophane maker: https://youtu.be/_-ckOocVFSs
+TeachingTech video on Kiri:Moto: https://youtu.be/IZ1VG07oFCo
+
+---
 
 ## Creality Workshop Software
 
@@ -58,6 +74,8 @@ Creality's CP-01 is not the only machine to use Marlin for a CNC application.  O
 
 On the milling basics page https://www.v1engineering.com/milling-basics/ is a link to a Fusion 360 post-processor for Marlin.  (We've duplicated that info below for your convenience.)
 
+
+---
 
 ## Post Processors
 (source: V1 Engineering https://www.v1engineering.com/milling-basics/)
