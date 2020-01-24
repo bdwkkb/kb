@@ -49,6 +49,7 @@ For the CNC the positioning is handled much the same as the Laser.  Use the arro
 
 ### Alternative Software (CNC)
 
+Camotics: https://camotics.org/download.html
 Carbide Create: https://carbide3d.com/carbidecreate/
 Pic to SVG converter: https://picsvg.com/
 Kiri:Moto: https://grid.space/kiri
