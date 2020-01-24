@@ -4,8 +4,7 @@ The Creality CP-01 is a unique all-in-one 3D Printer, CNC Engraver and Laser Eng
 
 ### Basic Resources
 
-For a backup of the USB key contents provided with this machine:
-https://github.com/3d-printing-canada/Creality-CP-01-Resources
+For a backup of the USB key contents provided with this machine: https://github.com/3d-printing-canada/Creality-CP-01-Resources
 
 ---
 
