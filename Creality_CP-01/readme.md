@@ -3,7 +3,7 @@
 The Creality CP-01 is a unique all-in-one 3D Printer, CNC Engraver and Laser Engraver.  This is a great way to try out CNC and Laser engraving with a low entry cost and still have an excellent 3D Printer.
 
 
-## 3D Printing
+## 3D Printing Function
 
 For preparing files for 3D Printing on your CP-01, please use a profile for the Ender 3.  The CP-01 shares the same basic build volume and other relevant details.  So the Ender 3 profile in Cura (tested in 4.4.0) works quite well.
 
@@ -13,7 +13,7 @@ Unfortunately, due to the design of the CP-01 with interchangeable heads, at thi
 
 ---
 
-## Laser Engraving
+## Laser Engraving Function
 
 This is limited to 100 x 190 mm volume.
 
@@ -35,7 +35,7 @@ We are searching for alternative resources for laser functions on this machine. 
 
 ---
 
-## CNC Functions
+## CNC Engraving Function
 
 ### CAUTION!
 
