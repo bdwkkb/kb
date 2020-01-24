@@ -2,6 +2,11 @@
 
 The Creality CP-01 is a unique all-in-one 3D Printer, CNC Engraver and Laser Engraver.  This is a great way to try out CNC and Laser engraving with a low entry cost and still have an excellent 3D Printer.
 
+### Basic Resources
+
+For a backup of the USB key contents provided with this machine: https://github.com/3d-printing-canada/Creality-CP-01-Resources
+
+---
 
 ## 3D Printing Function
 
@@ -56,6 +61,7 @@ Kiri:Moto: https://grid.space/kiri
 Lithophane creator: http://3dp.rocks/lithophane/
 Easel Inventables: http://easel.inventables.com/
 Tinkercad: http://www.tinkercad.com/
+Craftsmanspace: https://www.craftsmanspace.com/free-software/free-cam-software.html
 
 Videos for Tools:
 TeachingTech video on beta testing the CP-01: https://youtu.be/s__H_bcFvds
