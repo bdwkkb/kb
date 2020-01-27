@@ -36,7 +36,7 @@ Position the laser using the positioning arrows on the machine or in the worksho
 
 ### Alternative Software (Laser)
 
-We are searching for alternative resources for laser functions on this machine.  If you have any known (working) solutions, please let us know so we can share them!
+Please submit any suggestions.
 
 ---
 
@@ -73,7 +73,7 @@ TeachingTech video on Kiri:Moto: https://youtu.be/IZ1VG07oFCo
 
 ## Creality Workshop Software
 
-A very basic program for Laser and CNC.  Works only with .jpg image files.  After opening a file, you will get an adjustment slider to adjust your source image.  For engraving functions, you'll find outlines work well.  Raster image (gradient) may have mixed results.
+A very basic program for Laser and CNC.  Works only with .jpg image files.  After opening a file, you will get an adjustment slider to adjust your source image.  For engraving functions, you'll find outlines work well.  Raster image (gradient) are possible but depending on the image selected, you may have mixed results.
 
 You can connect your CP-01 by selecting the COM port from the drop down list and hitting "connect."  There are arrow controls to position the tool head (X and Y only, Z on the machine only.)
 
