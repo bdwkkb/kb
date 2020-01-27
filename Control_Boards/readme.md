@@ -12,6 +12,7 @@
 1) CR-10S Pro (v1)
 2) CR-10 Max
 3) Ender 5 Plus
+(Older v2.4)
 
 ## Creality v2.2
 1) CR-20 Pro
