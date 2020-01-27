@@ -8,7 +8,7 @@
 1) CP-01
 2) CR-10 V2
 
-## Creality v2.4
+## Creality v2.4.1
 1) CR-10S Pro (v1)
 2) CR-10 Max
 3) Ender 5 Plus
