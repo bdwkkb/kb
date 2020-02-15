@@ -1,4 +1,4 @@
-# Creality CP-01, Extended Resources
+﻿# Creality CP-01, Extended Resources
 
 The Creality CP-01 is a unique all-in-one 3D Printer, CNC Engraver and Laser Engraver.  This is a great way to try out CNC and Laser engraving with a low entry cost and still have an excellent 3D Printer.
 
@@ -54,20 +54,20 @@ For the CNC the positioning is handled much the same as the Laser.  Use the arro
 
 ### Alternative Software (CNC)
 
-Camotics: https://camotics.org/download.html
-Carbide Create: https://carbide3d.com/carbidecreate/
-Pic to SVG converter: https://picsvg.com/
-Kiri:Moto: https://grid.space/kiri
-Lithophane creator: http://3dp.rocks/lithophane/
-Easel Inventables: http://easel.inventables.com/
-Tinkercad: http://www.tinkercad.com/
-Craftsmanspace: https://www.craftsmanspace.com/free-software/free-cam-software.html
+- Camotics: https://camotics.org/download.html
+- Carbide Create: https://carbide3d.com/carbidecreate/
+- Pic to SVG converter: https://picsvg.com/
+- Kiri:Moto: https://grid.space/kiri
+- Lithophane creator: http://3dp.rocks/lithophane/
+- Easel Inventables: http://easel.inventables.com/
+- Tinkercad: http://www.tinkercad.com/
+- Craftsmanspace: https://www.craftsmanspace.com/free-software/free-cam-software.html
 
 Videos for Tools:
-TeachingTech video on beta testing the CP-01: https://youtu.be/s__H_bcFvds
-TeachingTech video on sainsmart genmitsu 3018 pro (for the CNC software resources): https://youtu.be/Y5nyjvytlBk
-TeachingTech video on lithophane maker: https://youtu.be/_-ckOocVFSs
-TeachingTech video on Kiri:Moto: https://youtu.be/IZ1VG07oFCo
+- TeachingTech video on beta testing the CP-01: https://youtu.be/s__H_bcFvds
+- TeachingTech video on sainsmart genmitsu 3018 pro (for the CNC software resources): https://youtu.be/Y5nyjvytlBk
+- TeachingTech video on lithophane maker: https://youtu.be/_-ckOocVFSs
+- TeachingTech video on Kiri:Moto: https://youtu.be/IZ1VG07oFCo
 
 ---
 
